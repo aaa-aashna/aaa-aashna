@@ -20,24 +20,19 @@
 ---
 
 ### 🌼 Let’s Connect!
-
-### 🌸 Let's Connect & Spark Joy! 🌸
+<p align="center">
+  <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aaa.aashna/" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 20px;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" />
-    <br />
-    <sub><b>Find me on LinkedIn 💼</b></sub>
-  </a>
-  
-  <a href="https://www.instagram.com/aaa.aashna/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin: 0 20px;">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" />
-    <br />
-    <sub><b>Follow my Insta 📸</b></sub>
-  </a>
+  <em>💬 Drop a hello or just say hi! Let’s make magic happen ✨</em>
 </p>
 
-<p align="center" style="font-style:italic; color:#f49ac2; font-size:16px; margin-top:10px;">
-  💬 Drop a hello or just say hi! Let’s make magic happen ✨
-</p>
+
 
