@@ -21,7 +21,6 @@
 
 ### 🌼 Let’s Connect!
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,9 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/M9J5l9wN0cIAAAAC/hello-panda.gif" width="150" alt="Waving Panda Saying Hi" />
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="150" alt="Hi from a waving panda!" />
 </p>
-
 
 
 
