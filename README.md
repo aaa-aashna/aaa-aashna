@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aashna 🌷</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F49AC2&center=true&width=400&lines=Building+My+Tech+Journey+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F49AC2&center=true&width=500&lines=Making+Mistakes,+Making+Progress" alt="Typing SVG" />
 </p>
 
 ---
