@@ -20,7 +20,7 @@
 ---
 
 ### 🌼 Let’s Connect!
-### 🧁 Let's Connect & Sprinkle Some Joy! 🍥
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer">
@@ -33,8 +33,9 @@
 </p>
 
 <p align="center">
-  💌 Let’s be internet friends — my DMs are always open! ✨
+  <img src="https://media.tenor.com/M9J5l9wN0cIAAAAC/hello-panda.gif" width="150" alt="Waving Panda Saying Hi" />
 </p>
+
 
 
 
