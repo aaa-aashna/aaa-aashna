@@ -20,19 +20,22 @@
 ---
 
 ### 🌼 Let’s Connect!
+### 🧁 Let's Connect & Sprinkle Some Joy! 🍥
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/🌐 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aaa.aashna/" target="_blank" rel="noopener noreferrer" title="Follow me on Instagram">
-    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/aaa.aashna/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F49AC2&center=true&vCenter=true&width=450&lines=✨+Let's+be+internet+friends!+💬;🧃+DM+open+for+collabs+or+chaat~+🤍" alt="Typing animation" />
+  💌 Let’s be internet friends — my DMs are always open! ✨
 </p>
+
 
 
 
