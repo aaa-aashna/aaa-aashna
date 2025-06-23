@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aashna 🌷</h1>
 
-<!--
-**aaa-aashna/aaa-aashna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F49AC2&center=true&vCenter=true&width=500&lines=Cybersecurity+%F0%9F%94%90+Explorer+%7C+Dev+%F0%9F%92%BB+Learner+%7C+UI%2FUX+Lover+%F0%9F%8E%A8" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me
+
+- 🎓 CSE Undergrad 
+- 🔐 Learning Cybersecurity & Web Dev
+- 🌱 Exploring Open Source & building projects
+- 🎨 Loves journaling
+
+---
+
+> 🍵 *Fun fact:* I'm most productive with lo-fi beats and coffee
+
+---
+
+### 🌼 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aashna-puri-389954306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/aaa.aashna/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
