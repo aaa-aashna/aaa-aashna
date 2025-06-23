@@ -21,17 +21,17 @@
 
 ### 🌼 Let’s Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aashna-puri-389954306/" target="_blank" rel="noopener noreferrer" title="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/🌐 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aaa.aashna/" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aaa.aashna/" target="_blank" rel="noopener noreferrer" title="Follow me on Instagram">
+    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
 <p align="center">
-  <em>💬 Drop a hello or just say hi! Let’s make magic happen ✨</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F49AC2&center=true&vCenter=true&width=450&lines=✨+Let's+be+internet+friends!+💬;🧃+DM+open+for+collabs+or+chaat~+🤍" alt="Typing animation" />
 </p>
 
 
