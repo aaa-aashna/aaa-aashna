@@ -8,7 +8,7 @@
 
 ### 🌸 About Me
 
-- 🎓 CSE Undergrad 
+- 🎓 IT Undergrad 
 - 🔐 Learning Cybersecurity & Web Dev
 - 🌱 Exploring Open Source & building projects
 - 🎨 Loves journaling
