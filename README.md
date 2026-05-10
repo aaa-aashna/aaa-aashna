@@ -1,17 +1,28 @@
 <h1 align="center">Hi, I'm Aashna 🌷</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F49AC2&center=true&width=500&lines=Making+Mistakes,+Making+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F49AC2&center=true&width=700&lines=Making+Mistakes,+Making+Progress;Open+Source+%7C+Cloud+Native+%7C+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌸 About Me
 
-- 🎓 IT Undergrad 
-- 🔐 Learning Cybersecurity & Web Dev
-- 🌱 Exploring Open Source & building projects
-- 🎨 Loves journaling
+* 🎓 IT Undergraduate
+* 🔐 Exploring Cybersecurity, Cloud & Distributed Systems
+* ⚙️ Learning Go, Kubernetes & Backend Development
+* 🌱 Contributing to Open Source projects like Kyverno
+* 🧠 Interested in infrastructure, developer tooling & OSS
+* 🎨 Loves journaling & building projects
+
+---
+
+### 🚀 Currently Exploring
+
+* Cloud Native Ecosystem
+* Kubernetes & Go
+* Open Source Contributions
+* Security & Infrastructure Engineering
 
 ---
 
@@ -30,7 +41,4 @@
     <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-
-
 
