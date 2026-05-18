@@ -41,4 +41,9 @@
     <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+---
+
+<p align="center">
+  <i>Still learning. Still building. Still showing up.</i>
+</p>
 
